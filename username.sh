@@ -1,0 +1,1 @@
+Zhanbolzt kulzhabek
