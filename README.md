@@ -1,5 +1,8 @@
+
+
 # jusan-git
 
+<<<<<<< HEAD
 
 username.sh - gives name of user
 
@@ -12,6 +15,11 @@ username.sh - gives name of user
 
 
 Tpik id printer <h1>
+=======
+Stepik id printer <h1>
+![jusan](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
+
+>>>>>>> new-readme
 Jusan singularity Данный репозиторий содержит скрипт для вывода моего ID на stepik.org
 opportuniteis <h2>
 good job etc
